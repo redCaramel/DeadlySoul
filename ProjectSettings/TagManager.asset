@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - attackEff
+  - player
+  - bullet
+  - goblin
+  - bat
+  - golem
+  - soul
+  - tree
+  - wood
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - treeBoss
+  - Water
+  - UI
+  - map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
